@@ -1,0 +1,6 @@
+{
+  "name": "UE Material automation",
+  "description": "虚幻引擎（Unreal Engine 5.7）材质实例批量创建与贴图绑定脚本生成器",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

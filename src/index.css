@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  background-color: #111111;
+  color: #CCCCCC;
+}
+
+/* Custom scrollbars for the Sleek Interface theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #161616;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333333;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}
